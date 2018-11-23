@@ -1,0 +1,10 @@
+/*公共样式*/
+.text-hidden{
+	overflow:hidden;
+	text-indent: -999px;
+}
+
+#menu{position: fixed;right: 0;top: 200px;z-index: 999;}
+#menu li{}
+#menu li a{display: inline-block;width: 10px;height: 10px;border: 1px solid red;border-radius: 50%;}
+#menu .active a{color: #afa}
