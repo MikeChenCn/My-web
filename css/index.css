@@ -5,6 +5,7 @@
 }
 .fl{float: left;}
 .fr{float: right;}
+
 /*首页样式*/
 html,body{height:100%;width: 100%;}
 body{font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;}
@@ -15,3 +16,15 @@ body{font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;}
 #menu li a{font-size: 18px;display:inline-block;height: 50px;line-height: 50px;padding-right: 35px;color: #fff;}
 #menu li a:hover{cursor: pointer;}
 #menu .active a{color: #afa}
+
+/*section*/
+.section{text-align: center;}
+.section h3{font-size: 50px;margin-top: 10px;}
+.section p{font-size: 24px;margin: 	20px 0;}
+
+
+.section1 h1{font-size: 70px;}
+
+/*section6联系我样式*/
+.copyright{}
+
